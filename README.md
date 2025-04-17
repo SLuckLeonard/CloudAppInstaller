@@ -17,7 +17,7 @@
 
 ## Built With
 
-- **C# (.NET 6+)**
+- **C# (.NET 8)**
 - **Azure Blob Storage** (Free tier)
 - **WPF** (GUI, optional)
 - **GitHub Actions** (CI/CD plans)
@@ -47,4 +47,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Project Status
 
-Early development. Seeking contributions and feedback!
+Early development
